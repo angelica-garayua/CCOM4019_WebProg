@@ -1,0 +1,13 @@
+﻿.mi_container > .row {
+    border: 2px solid red; /* Define un borde sólido de 1px y color red */
+    height: 150px; /* Establece la altura a 150 píxeles */
+}
+
+.mi_container > .row > .col {
+    border: 1px solid blue; /* Define un borde sólido de 1px y color blue */
+    height: 50px; /* Establece la altura a 50 píxeles */
+}
+/* Opcional: para asegurar que el borde y el padding se incluyan en la altura/ancho total */
+.row, .col {
+    box-sizing: border-box;
+}
