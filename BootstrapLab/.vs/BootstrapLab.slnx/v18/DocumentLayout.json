@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|solutionrelative:bootstraplab\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82E8C471-CD8C-EC9E-2308-72F6861397CD}|BootstrapLab\\BootstrapLab.csproj|c:\\users\\administrador\\documents\\github\\ccom4019\\bootstraplab\\bootstraplab\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\.gitignore",
               "RelativeDocumentMoniker": "..\\.gitignore",
@@ -67,33 +67,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\BootstrapLab\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BootstrapLab\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\BootstrapLab\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BootstrapLab\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-18T20:16:54.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\BootstrapLab\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BootstrapLab\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\BootstrapLab\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "BootstrapLab\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJ0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-18T20:13:57.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\CCOM4019\\BootstrapLab\\BootstrapLab\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "BootstrapLab\\Components\\Pages\\Home.razor.css",
@@ -101,8 +101,7 @@
               "RelativeToolTip": "BootstrapLab\\Components\\Pages\\Home.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-23T19:44:54.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:44:54.595Z"
             },
             {
               "$type": "Document",
