@@ -1,4 +1,4 @@
-# 📘 Sistema de Pagos - Nombre Apellido Services
+# 📘 Sistema de Pagos - Angelica Garayua Services
 > **Versión:** 1.0.0 | **Tecnología:** .NET 10 / C# 14 | **Tipo:** Console App
 Aplicación moderna para la gestión de pagos de empleados temporales (Analistas y Programadores).
 El sistema automatiza el cálculo de salarios netos, aplicando deducciones de ley, impuestos
@@ -34,7 +34,9 @@ federales y tarifas de agencia basándose en reglas de negocio espec íficas.
  
  > **Nota:** El sistema valida los datos automaticamente. Si ingresa un dato erróneo, se le notificará.
 
- ### 2. Generar Reporte
+ ### 2. Ver Reporte Total
+ Seleccione la ***Opción 2** para ver el acumulado del día.
+ Muestra la suma total de lo que la empresa debe pagar (NETO), lo retenido (IMPUESTOS), y la ganancia de la agencia.
 
  ### Arquitectura del Código
 
